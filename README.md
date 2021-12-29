@@ -1,3 +1,16 @@
+This is a simple Blog App with React.
+
+#Features
+-Fetching blogs from a local JSON server and displaying the blogs in list form.
+
+-Fetching details about individual blogs and displaying them.
+
+-Adding new blogs.
+
+-Deleting blogs.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
