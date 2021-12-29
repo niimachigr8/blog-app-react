@@ -1,6 +1,7 @@
 This is a simple Blog App with React.
 
-#Features
+/*Features*/:
+
 -Fetching blogs from a local JSON server and displaying the blogs in list form.
 
 -Fetching details about individual blogs and displaying them.
