@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/niimachigr8/blog-app-react/static/css/main.927b2347.chunk.css",
+    "main.js": "/niimachigr8/blog-app-react/static/js/main.c1b02cae.chunk.js",
+    "main.js.map": "/niimachigr8/blog-app-react/static/js/main.c1b02cae.chunk.js.map",
+    "runtime-main.js": "/niimachigr8/blog-app-react/static/js/runtime-main.07c86c18.js",
+    "runtime-main.js.map": "/niimachigr8/blog-app-react/static/js/runtime-main.07c86c18.js.map",
+    "static/js/2.d4d37b52.chunk.js": "/niimachigr8/blog-app-react/static/js/2.d4d37b52.chunk.js",
+    "static/js/2.d4d37b52.chunk.js.map": "/niimachigr8/blog-app-react/static/js/2.d4d37b52.chunk.js.map",
+    "static/js/3.663e6dd8.chunk.js": "/niimachigr8/blog-app-react/static/js/3.663e6dd8.chunk.js",
+    "static/js/3.663e6dd8.chunk.js.map": "/niimachigr8/blog-app-react/static/js/3.663e6dd8.chunk.js.map",
+    "index.html": "/niimachigr8/blog-app-react/index.html",
+    "static/css/main.927b2347.chunk.css.map": "/niimachigr8/blog-app-react/static/css/main.927b2347.chunk.css.map",
+    "static/js/2.d4d37b52.chunk.js.LICENSE.txt": "/niimachigr8/blog-app-react/static/js/2.d4d37b52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07c86c18.js",
+    "static/js/2.d4d37b52.chunk.js",
+    "static/css/main.927b2347.chunk.css",
+    "static/js/main.c1b02cae.chunk.js"
+  ]
+}
